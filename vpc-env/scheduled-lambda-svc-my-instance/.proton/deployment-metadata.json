@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "9f0472bc-cde3-4ad1-bc21-e61d4b1ef2d9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:074207182078:service/scheduled-lambda-svc/service-instance/my-instance",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:074207182078:service-template/scheduled-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1",
+    "environmentArn" : "arn:aws:proton:ap-northeast-1:074207182078:environment/vpc-env"
+  }
+}
