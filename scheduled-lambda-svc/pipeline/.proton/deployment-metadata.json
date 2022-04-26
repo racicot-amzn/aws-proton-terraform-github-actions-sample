@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "db2fae11-9e81-40fa-a4df-5eeb3cebe61f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:074207182078:service/scheduled-lambda-svc/pipeline",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:074207182078:service-template/scheduled-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "4"
+  }
+}
