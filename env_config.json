@@ -1,7 +1,7 @@
 {
-    "REPLACE_ME": {
-        "role": "arn:aws:iam::111111111111:role/REPLACE_ME",
-        "region": "us-west-2",
-        "state_bucket":"REPLACE_ME"
+    "vpc-env": {
+        "role": "arn:aws:iam::074207182078:role/ExampleGithubRole",
+        "region": "ap-northeast-1",
+        "state_bucket":"aws-proton-terraform-bucket-074207182078"
     }
 }
