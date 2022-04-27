@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "ed896d35-8540-4816-8635-595daae7e89a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:074207182078:service/scheduled-ecs-ec2-svc/pipeline",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:074207182078:service-template/scheduled-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
