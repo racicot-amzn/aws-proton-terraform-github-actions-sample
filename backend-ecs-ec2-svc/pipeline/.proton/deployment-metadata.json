@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b4dad07a-ac2f-48df-9e7c-a3055546c433",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:074207182078:service/backend-ecs-ec2-svc/pipeline",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:074207182078:service-template/backend-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "3"
+  }
+}
