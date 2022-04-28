@@ -1,11 +1,11 @@
 {
-  "deploymentId" : "adda4984-587f-4cf3-b857-964b04a5fc1f",
+  "deploymentId" : "00a32798-6728-4ac8-8ad1-45de5fd7dce4",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:ap-northeast-1:074207182078:service/backend-ecs-ec2-svc/service-instance/instance1",
     "templateArn" : "arn:aws:proton:ap-northeast-1:074207182078:service-template/backend-ecs-ec2-svc",
     "templateMajorVersion" : "1",
-    "templateMinorVersion" : "2",
+    "templateMinorVersion" : "3",
     "environmentArn" : "arn:aws:proton:ap-northeast-1:074207182078:environment/ecs-ec2-env"
   }
 }
